@@ -28,16 +28,20 @@
 3. 표 관련 태그(실습-index.html, table.html)
   + caption, thead, tbody, tfoot, tr, th, td
 
-      < th, td 태그의 속성 >
-        (1)rowspan--> 행 병합
-        (2)colspan--> 열 병합
+
+        < th, td 태그의 속성 >
+          (1)rowspan--> 행 병합
+          (2)colspan--> 열 병합
+
 
 4. 공간 분할 태그(실습-index.html, space.html, semantic.html)
   + div(공간을 나누긴 하지만 의미는 x), span
   + header, nav, aside, section, article, footer--> 시맨틱 구조 태그
 
-      **inline요소--> 양옆으로 나열되는 요소(a, 글자 관련 태그 등)
-        block요소--> 쌓이는 형태로 나열되는 요소(제목태그, p태그 등)
+
+        **inline요소--> 양옆으로 나열되는 요소(a, 글자 관련 태그 등)
+          block요소--> 쌓이는 형태로 나열되는 요소(제목태그, p태그 등)
+
 
 #### 멀티미디어 관련 태그
 5. 이미지 태그(실습-image.html, index.html)
